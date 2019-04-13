@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/9/28 19:42:13。
+     1>项目“F:\C++程序\DesignMode\strategy\strategy\strategy.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\strategy.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt strategy.cpp
+         strategy.cpp
+     1>f:\c++程序\designmode\strategy\strategy\strategy.cpp(10): warning C4309: “初始化”: 截断常量值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++程序\DesignMode\strategy\Debug\strategy.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C++程序\DesignMode\strategy\Debug\strategy.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C++程序\DesignMode\strategy\Debug\strategy.lib" /MACHINE:X86 Debug\behavior.obj
+         Debug\duch.obj
+         Debug\mallarduck.obj
+         Debug\modelduck.obj
+         Debug\stdafx.obj
+         Debug\strategy.obj
+         strategy.vcxproj -> F:\C++程序\DesignMode\strategy\Debug\strategy.exe
+     1>已完成生成项目“F:\C++程序\DesignMode\strategy\strategy\strategy.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.64

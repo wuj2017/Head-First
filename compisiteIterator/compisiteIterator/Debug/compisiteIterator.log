@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/10/23 20:48:19。
+     1>项目“F:\C++程序\DesignMode\compisiteIterator\compisiteIterator\compisiteIterator.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\compisiteIterator.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\iterator.h(10): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\iterator.h(10): error C2433: “Iterator::MenuComponent”: 不允许在数据声明中使用“virtual”
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\iterator.h(10): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\iterator.h(10): warning C4183: “next”:  缺少返回类型；假定为返回“int”的成员函数
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\nulliterator.h(9): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\nulliterator.h(9): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\nulliterator.h(10): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\nulliterator.h(12): warning C4183: “next”:  缺少返回类型；假定为返回“int”的成员函数
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\menuitem.h(7): error C2504: “MenuComponent”: 未定义基类
+     1>f:\c++程序\designmode\compisiteiterator\compisiteiterator\watress.h(20): error C2440: “初始化”: 无法从“int *”转换为“MenuComponent *”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“F:\C++程序\DesignMode\compisiteIterator\compisiteIterator\compisiteIterator.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.67

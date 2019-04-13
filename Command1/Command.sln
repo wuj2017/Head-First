@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simpleRemote", "Command\Command.vcxproj", "{985F3922-4DB7-4ED7-8F8E-5F8A8A3B3D79}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remote", "Remote\Remote.vcxproj", "{CB9143C2-63E4-47E4-8195-86FAA6757755}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Undo", "Undo\Undo.vcxproj", "{08696A2F-D7EA-4BD1-9ED6-761D4B60A8B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985F3922-4DB7-4ED7-8F8E-5F8A8A3B3D79}.Debug|Win32.ActiveCfg = Debug|Win32
+		{985F3922-4DB7-4ED7-8F8E-5F8A8A3B3D79}.Debug|Win32.Build.0 = Debug|Win32
+		{985F3922-4DB7-4ED7-8F8E-5F8A8A3B3D79}.Release|Win32.ActiveCfg = Release|Win32
+		{985F3922-4DB7-4ED7-8F8E-5F8A8A3B3D79}.Release|Win32.Build.0 = Release|Win32
+		{CB9143C2-63E4-47E4-8195-86FAA6757755}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB9143C2-63E4-47E4-8195-86FAA6757755}.Debug|Win32.Build.0 = Debug|Win32
+		{CB9143C2-63E4-47E4-8195-86FAA6757755}.Release|Win32.ActiveCfg = Release|Win32
+		{CB9143C2-63E4-47E4-8195-86FAA6757755}.Release|Win32.Build.0 = Release|Win32
+		{08696A2F-D7EA-4BD1-9ED6-761D4B60A8B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08696A2F-D7EA-4BD1-9ED6-761D4B60A8B8}.Debug|Win32.Build.0 = Debug|Win32
+		{08696A2F-D7EA-4BD1-9ED6-761D4B60A8B8}.Release|Win32.ActiveCfg = Release|Win32
+		{08696A2F-D7EA-4BD1-9ED6-761D4B60A8B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

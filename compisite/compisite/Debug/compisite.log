@@ -1,0 +1,30 @@
+﻿生成启动时间为 2018/10/24 9:45:05。
+     1>项目“F:\C++程序\DesignMode\compisite\compisite\compisite.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\compisite.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(23): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(24): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(25): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(26): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(28): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(29): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(30): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(31): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(32): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(33): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(36): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(37): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(38): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(41): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(43): warning C4305: “参数”: 从“double”到“float”截断
+     1>f:\c++程序\designmode\compisite\compisite\main.cpp(45): warning C4305: “参数”: 从“double”到“float”截断
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++程序\DesignMode\compisite\Debug\compisite.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C++程序\DesignMode\compisite\Debug\compisite.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C++程序\DesignMode\compisite\Debug\compisite.lib" /MACHINE:X86 Debug\main.obj
+         Debug\stdafx.obj
+         compisite.vcxproj -> F:\C++程序\DesignMode\compisite\Debug\compisite.exe
+     1>已完成生成项目“F:\C++程序\DesignMode\compisite\compisite\compisite.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.48
